@@ -18,6 +18,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 직접 참여할 수 있는 캠페인을 만든다
 
 ## Main Contents 
+1.    김영애, 장지웅, 허수진, 박구만. (2015). 립모션을 이용한 Unity3D 기반의 인터랙티브 미디어 아트 콘텐츠 개발. 한국정보과학회 학술발표논문집, (), 1969-1971.
 1.  Hand Interaction   
     <img width="571" alt="1" src="https://user-images.githubusercontent.com/48082551/120884773-2c55b680-c620-11eb-9496-2ba290384c60.png">
     
@@ -72,12 +73,15 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 ## Results
 * Demo Video
+
 https://user-images.githubusercontent.com/48082551/120884830-7048bb80-c620-11eb-98e2-b942de5bbc4e.mp4
 
 * Poster
+
 ![HCI_page-0001](https://user-images.githubusercontent.com/48082551/120884909-e9e0a980-c620-11eb-9e89-2430b7c96154.jpg)
 
 * src code
+
 https://github.com/duidong/HCI2021_Team01.git
 
 ## Conclusion 
