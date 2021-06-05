@@ -1,4 +1,4 @@
-# Draw your own mask! (Leapmotion, Unity) 
+# Draw Your Own Mask! (Leapmotion, Unity) 
 <img width="654" alt="0" src="https://user-images.githubusercontent.com/48082551/120884763-1b0caa00-c620-11eb-9979-cff4cad1ec6c.png">
 
 
@@ -21,7 +21,9 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 1. Hand Interaction   
 <img width="571" alt="1" src="https://user-images.githubusercontent.com/48082551/120884773-2c55b680-c620-11eb-9496-2ba290384c60.png">
     
+    
 립모션의 모션인식 기능 중에 pinch, spread palm, finger touch를 주로 사용합니다. pinch는 엄지 손가락과 집게 손가락을 오므리는 동작으로 그림을 그리는 기능을 위해 사용됩니다. 
+
 pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태일 때는 멈춥니다. finger touch는 한 손가락으로 터치하는 동작으로 버튼을 누를 때 사용됩니다.
 
 
@@ -29,6 +31,7 @@ pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태�
 
 * Home Scene   
 ![2](https://user-images.githubusercontent.com/48082551/120884778-324b9780-c620-11eb-87ec-4c9cdcd4c9c0.png)
+
 간략한 프로그램의 설명이 적혀 있는 main scene입니다.
  (start 버튼 -> drawing scene으로 이동) 
 
@@ -36,6 +39,7 @@ pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태�
 ![3](https://user-images.githubusercontent.com/48082551/120884781-37a8e200-c620-11eb-8cc7-78a30b81d7b9.png)
 
 나만의 마스크를 디자인하는 drawing scene입니다.
+
 (home 버튼 -> home scene으로 이동
 gallery 버튼 -> gallery scene으로 이동 
 share 버튼 -> 공유할지 묻는 팝업창
