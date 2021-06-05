@@ -18,7 +18,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 직접 참여할 수 있는 캠페인을 만든다
 
 ## Main Contents 
-1. Hand Interaction   
+*Hand Interaction*   
     <img width="571" alt="1" src="https://user-images.githubusercontent.com/48082551/120884773-2c55b680-c620-11eb-9496-2ba290384c60.png">
     
     
@@ -29,7 +29,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
     pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태일 때는 멈춥니다. finger touch는 한 손가락으로 터치하는 동작으로 버튼을 누를 때 사용됩니다.
 
 
-2. Scene Interaction 
+*Scene Interaction* 
 
 * Home Scene   
 ![2](https://user-images.githubusercontent.com/48082551/120884778-324b9780-c620-11eb-87ec-4c9cdcd4c9c0.png)
@@ -59,7 +59,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
     디자인 한 마스크를 프린트하기 전에 퀴즈를 풀 게 하는 quiz scene입니다.      
    
-3. Button Interaction 
+*Button Interaction*
 ![6](https://user-images.githubusercontent.com/48082551/120884805-4b544880-c620-11eb-8f91-c8323c95e992.png)
 
     앞서 설명한 scene interaction과 관련해서 button과 scene의 관계를 그림으로 나타냈습니다.
