@@ -25,7 +25,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태일 때는 멈춥니다. finger touch는 한 손가락으로 터치하는 동작으로 버튼을 누를 때 사용됩니다.
 
 
-2.Scene Interaction 
+2. Scene Interaction 
 
 * Home Scene   
 ![2](https://user-images.githubusercontent.com/48082551/120884778-324b9780-c620-11eb-87ec-4c9cdcd4c9c0.png)
@@ -37,7 +37,7 @@ pinch상태일 때는 손가락 끝에서 펜이 나오고, spread palm 상태�
 
 나만의 마스크를 디자인하는 drawing scene입니다.
 (home 버튼 -> home scene으로 이동
- gallery 버튼 -> gallery scene으로 이동 
+gallery 버튼 -> gallery scene으로 이동 
 share 버튼 -> 공유할지 묻는 팝업창
 save 버튼 -> 저장할지 묻는 팝업창 
 print -> 프린트 할지 묻는 팝업창 -> 퀴즈)  
@@ -53,7 +53,7 @@ print -> 프린트 할지 묻는 팝업창 -> 퀴즈)
 
 디자인 한 마스크를 프린트하기 전에 퀴즈를 풀 게 하는 quiz scene입니다.      
    
-3. Button Interaction   
+3. Button Interaction 
 ![6](https://user-images.githubusercontent.com/48082551/120884805-4b544880-c620-11eb-8f91-c8323c95e992.png)
 
 앞서 설명한 scene interaction과 관련해서 button과 scene의 관계를 그림으로 나타냈습니다.
@@ -65,12 +65,14 @@ print -> 프린트 할지 묻는 팝업창 -> 퀴즈)
 4.  실행 파일 실행
 
 ## Results
-
+* Demo Video
 https://user-images.githubusercontent.com/48082551/120884830-7048bb80-c620-11eb-98e2-b942de5bbc4e.mp4
 
+* Poster
 ![HCI_page-0001](https://user-images.githubusercontent.com/48082551/120884909-e9e0a980-c620-11eb-9e89-2430b7c96154.jpg)
 
-src code: https://github.com/duidong/HCI2021_Team01.git
+* src code
+https://github.com/duidong/HCI2021_Team01.git
 
 ## Conclusion 
 초기 유저 테스트에서 마스크를 꾸밀 수 있다고 해서 캠페인의 주제 의식을 높일 수 없다는 의견을 받아들여 마스크 착용에 대한 올바른 인식을 위한 퀴즈를 추가하였다. 
